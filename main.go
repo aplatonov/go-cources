@@ -6,5 +6,5 @@ import (
 
 func main() {
 	Sort()
-	fmt.Println("Hello")
+	fmt.Println("---End program---")
 }
