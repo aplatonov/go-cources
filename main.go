@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	Sort()
+	SortSlice()
 	fmt.Println("---End program---")
 }
