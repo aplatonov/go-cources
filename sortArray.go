@@ -1,4 +1,4 @@
-package sortArray
+package main
 
 import "fmt"
 

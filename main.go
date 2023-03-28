@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	sort()
+	Sort()
 	fmt.Println("Hello")
 }
