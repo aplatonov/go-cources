@@ -6,5 +6,6 @@ import (
 
 func main() {
 	SortSlice()
+	GetMaxElementRow()
 	fmt.Println("---End program---")
 }
