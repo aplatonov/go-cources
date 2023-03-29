@@ -16,6 +16,8 @@ func main() {
 	fmt.Println("Roman number:", s, "=", romanToInt(s))
 	s = "MCXI"
 	fmt.Println("Roman number:", s, "=", romanToInt(s))
+	s = "MDCCCXXXIV"
+	fmt.Println("Roman number:", s, "=", romanToInt(s))
 	fmt.Println("")
 
 	fmt.Println("---End program---")
