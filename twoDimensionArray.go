@@ -7,8 +7,6 @@ import (
 )
 
 func GetMaxElementRow() {
-	fmt.Println("---Start two dimension array---")
-
 	rand.Seed(time.Now().Unix())
 	arr := getRandomArray(5)
 

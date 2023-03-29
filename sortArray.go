@@ -8,8 +8,6 @@ import (
 )
 
 func SortSlice() {
-	fmt.Println("---Start sorting slice---")
-
 	rand.Seed(time.Now().Unix())
 	slice := rand.Perm(20)
 	randomGeneratedSlice := getRandomSlice(20)
